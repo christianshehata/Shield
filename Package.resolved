@@ -21,10 +21,10 @@
       },
       {
         "package": "PotentCodables",
-        "repositoryURL": "https://github.com/outfoxx/PotentCodables.git",
+        "repositoryURL": "https://github.com/christianshehata/PotentCodables.git",
         "state": {
           "branch": null,
-          "revision": "c3f5c13aae9de60d1834901ba641034daf86f058",
+          "revision": "0926e52faad1a09786d89d1ede9c2f9b1dfa8239",
           "version": "2.1.0"
         }
       },
